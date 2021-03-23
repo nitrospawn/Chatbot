@@ -31,4 +31,11 @@
 ### Architecture
 ![Architecture](https://user-images.githubusercontent.com/23058260/112169677-b336ed80-8bf2-11eb-90d1-f0b641741724.png)
 
+
+### Test
+you can test the bot with the link below
+http://t.me/PaviceCare_bot
+
+its a domain specific bot but u can test with normal faq questions. e.g what is payvice, how do i register 
+
 #### Thank You
