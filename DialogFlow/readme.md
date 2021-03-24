@@ -7,11 +7,17 @@
 - 	Buy cinema tickets
 -   Set up bank accounts
 
-
-### The product runs on the following platforms
+#### The product runs on the following platforms
 - 	Pos terminals {e.g Pax s90 and Verifone
 - 	Android Pos devices ( Amp8000, X990)
 - 	Android mobile devices
+
+
+### Functionality
+- 	Engage customers and resolve basic issues 
+- 	Collect Customers details
+- 	Answer FAQs
+
 
 ### Chatbot platform: Dialogfow   
 ![dailog flow](https://user-images.githubusercontent.com/23058260/112168795-e62cb180-8bf1-11eb-9082-87bfc2babf0b.png)
@@ -19,10 +25,6 @@
 ### Integration:Telegram    
 ![telegram](https://user-images.githubusercontent.com/23058260/112168965-107e6f00-8bf2-11eb-925b-ea671592b45f.png)
 
-### Functionality
-- 	Engage customers and resolve basic issues 
-- 	Collect Customers details
-- 	Answer FAQs
 
 ### Application Flow
 
