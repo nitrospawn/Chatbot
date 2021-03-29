@@ -36,7 +36,7 @@
 
 ### Test
 you can test the bot with the link below
-http://t.me/PaviceCare_bot
+ http://t.me/Payvice_demobot ,http://t.me/PaviceCare_bot
 
 its a domain specific bot but u can test with normal faq questions. e.g what is payvice, how do i register 
 
