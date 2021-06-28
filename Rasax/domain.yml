@@ -1,0 +1,107 @@
+session_config:
+  session_expiration_time: 60
+  carry_over_slots_to_new_session: true
+intents:
+- greet
+- goodbye
+- rouzo_about
+- rouzo_qualify
+- rouzo_information
+- rouzo_refferal
+- rouzo_monitoring
+- rouzo_intrest
+- rouzo_accrue
+- rouzo_intrest_pay
+- rouzo_minmax_period
+- rouzo_units
+- rouzo_break
+- rouzo_break_penalty
+- rouzo_start_invest
+- rouzo_safe
+- rouzo_whatnext
+- rouzo_register
+responses:
+  utter_greet:
+  - text: Hello! Welcome to Rouzo , how can i help you today?
+  utter_goodbye:
+  - text: Bye do you have any other question
+  utter_rouzo_about:
+  - text: Rouzo is a small business lending marketplace that allows smart individuals
+      and corporates invest in portfolios that lend to micro and small businesses.
+      They earn healthy returns while contributing to empowering small businesses
+      and promoting economic development.
+  utter_rouzo_qualify:
+  - text: You can invest through Rouzo as an individual or a corporate organization
+  utter_rouzo_information:
+  - text: We ensure the protection of your information through recognized security
+      procedures by the Data Protections Act.
+  utter_rouzo_refferal:
+  - text: Yes you can you may also invite others to benefit from the investment opportunities
+      offered on Rouzo platform. You can take advantage of our referral program and
+      earn when the people you referred with your code create an account and make
+      their first investment
+  utter_rouzo_monitoring:
+  - text: You can monitor your investment activities through your personalized dashboard
+      on your registered account.
+  utter_rouzo_intrest:
+  - text: 'Depending on the portfolio type you’re investing in you earn between 20%
+      - 30% interest p.a '
+  utter_rouzo_accrue:
+  - text: You accrue interest on a daily basis on Rouzo platform and you can view
+      the summary of accumulated interest on your dashboard
+  utter_rouzo_intrest_pay:
+  - text: Your accrued return can be seen monthly on your dashboard. You will get
+      a payout of accumulated returns into your wallet when your investment duration
+      is complete. You can transfer the money from your wallet to your bank account.
+  utter_rouzo_minmax_period:
+  - text: The minimum investment period is 90days and the maximum is 360days. The
+      longer your investment period the higher your returns. You can lock your investment
+      for a specific duration i.e. 3 months 6 months 9 months and 12 months.
+  utter_rouzo_units:
+  - text: The minimum number of units to invest in a portfolio is (1) and you can
+      invest in as many units as you desire as long as there are units available in
+      the portfolio. We usually limit units available for each portfolio per month
+      to enable proper management of the portfolio.
+  utter_rouzo_break:
+  - text: You can apply to break your investment before your due lock date by sending
+      an email to hello@rouzo.org with the headline break investment. When the email
+      is received the investment committee will meet and based on available cash flow
+      we will communicate when you can get your funds within1 week.
+  utter_rouzo_break_penalty:
+  - text: It depends
+  utter_rouzo_start_invest:
+  - text: You can fund your wallet as soon as you create an account and invest in
+      the portfolio of your choice. You will be notified of investment opportunities
+      as soon as the portal opens monthly. You should always check your dashboard
+      regularly for this information due high demand.
+  utter_rouzo_safe:
+  - text: 'Rouzo only lends to small businesses that have been in existence for at
+      least 2 years with a good business model and traceable cash flow. We have an
+      active in-house collections and recovery team to chase borrowers that default
+      in repayment.     '
+  utter_rouzo_whatnext:
+  - text: 'Once you accept our terms and condition you indicate your preference by
+      purchasing as many units in a portfolio as you require your investment journey
+      begins immediately. '
+  utter_rouzo_register:
+  - text: click on th sign up button on the homepage and fillout the form with a valid
+      means of identification that all
+actions:
+- greet
+- goodbye
+- rouzo_about
+- rouzo_qualify
+- rouzo_information
+- rouzo_refferal
+- rouzo_monitoring
+- rouzo_intrest
+- rouzo_accrue
+- rouzo_intrest_pay
+- rouzo_minmax_period
+- rouzo_units
+- rouzo_break
+- rouzo_break_penalty
+- rouzo_start_invest
+- rouzo_safe
+- rouzo_whatnext
+- rouzo_register
